@@ -1,0 +1,14 @@
+# Place files
+/*.rbxl
+/*.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Rojo sourcemap
+/sourcemap.json
+
+# building & testing
+build
+tests

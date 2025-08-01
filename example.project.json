@@ -1,0 +1,22 @@
+{
+  "name": "TypedEnum",
+  "tree": {
+    "$className": "DataModel",
+    "$ignoreUnknownInstances": true,
+    "Players": {
+      "$className": "Players",
+      "$properties": {
+        "CharacterAutoLoads": false
+      }
+    },
+    "ReplicatedFirst": {
+      "$className": "ReplicatedFirst",
+      "TypedEnum": {
+        "$path": "src",
+        "Example": {
+          "$path": "example"
+        }
+      }
+    }
+  }
+}
